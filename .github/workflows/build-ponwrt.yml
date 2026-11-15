@@ -54,7 +54,7 @@ on:
       soc:
         description: 'SoC 平台'
         required: true
-        default: 'an7583'
+        default: 'an7581'
         type: choice
         options:
           - an7581
